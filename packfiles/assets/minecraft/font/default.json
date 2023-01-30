@@ -1,0 +1,39 @@
+{
+    "providers": [
+      {
+        "type": "bitmap",
+        "file": "minecraft:gui/container/repair_guide_left.png",
+        "ascent": 10,
+        "height": 125,
+        "chars": ["\uEf04"]
+      },
+      {
+        "type": "bitmap",
+        "file": "minecraft:gui/container/repair_guide_right.png",
+        "ascent": 10,
+        "height": 164,
+        "chars": ["\uEf05"]
+      },
+      {
+        "type": "bitmap",
+        "file": "minecraft:gui/container/anvil_guide_left.png",
+        "ascent": 10,
+        "height": 199,
+        "chars": ["\uEf06"]
+      },
+      {
+        "type": "bitmap",
+        "file": "minecraft:gui/container/anvil_guide_right.png",
+        "ascent": 10,
+        "height": 151,
+        "chars": ["\uEf07"]
+      },
+      {
+        "type": "bitmap",
+        "file": "minecraft:gui/container/marker.png",
+        "ascent": -2147483648,
+        "height": -345,
+        "chars": ["\uEf02"]
+      }
+    ]
+}
